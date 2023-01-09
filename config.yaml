@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-# Values for this lesson. Modify is necessary
+# Values for this lesson.
 #------------------------------------------------------------
 
 # Which carpentry is this (swc, dc, lc, or cp)?
@@ -58,17 +58,18 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes:
+episodes: 
 - introduction.Rmd
+- next-episode.Rmd
 
 # Information for Learners
-learners:
+learners: 
 
 # Information for Instructors
-instructors:
+instructors: 
 
 # Learner Profiles
-profiles:
+profiles: 
 
 # Customisation ---------------------------------------------
 #
